@@ -1,0 +1,1 @@
+An app based on the MEAN stack architecture. 
