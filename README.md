@@ -1,1 +1,1 @@
-An app based on the MEAN stack architecture. 
+A test app based on the MEAN stack architecture. 
